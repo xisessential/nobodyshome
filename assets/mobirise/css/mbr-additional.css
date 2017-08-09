@@ -408,6 +408,15 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #7e9b9f;
 }
+#header5-n .mbr-section-title {
+  color: #28324e;
+}
+#header5-n .mbr-section-lead {
+  color: #000000;
+}
+#slider3-d H2 {
+  font-size: 60px;
+}
 #ext_menu-f .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -468,9 +477,6 @@ h6,
 #ext_menu-f .link[aria-expanded="true"],
 #ext_menu-f .dropdown-item[aria-expanded="true"] {
   color: #7e9b9f!important;
-}
-#slider3-d H2 {
-  font-size: 60px;
 }
 #header3-6 .mbr-section-title,
 #header3-6 .mbr-section-subtitle {
